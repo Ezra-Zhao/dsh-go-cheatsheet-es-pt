@@ -1,5 +1,7 @@
 # dsh-Go 速查表 | dsh-Go Cheatsheet | Guía rápida de dsh-Go
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 dsh-Go：DeepSeek Harness（dsh）的社区安卓客户端——把编程 agent 装进口袋。手机本机直接跑 dsh（App 内装 Ubuntu 与 Node.js 运行环境，免 root、免 Termux），也能经 SSH 或 DSH Remote 遥控你电脑上的 dsh，接着同一段对话干活。离开工位时拿它接着盯 agent、批审批、排排队，电脑可以关，agent 的活别停。
 
 - 上游项目：[ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)（2026-11-05 实测 11,277 ★ / 513 forks，AGPL-3.0；根目录只有简体中文 README 与 README.en.md，无西/葡语版）
